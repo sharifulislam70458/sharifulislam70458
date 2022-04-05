@@ -1,6 +1,35 @@
 
 <html>
 <head>
+    <style>
+        body { font-size: 20px; }
+ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: Magenta ; position: -webkit-sticky; /* Safari */ position: sticky; top: 0; }
+
+li { float: left; }
+
+li a { display: block; color: Purple; text-align: center; padding: 14px 16px; text-decoration: none; }
+
+li a:hover { background-color: green; }
+
+.active { background-color: green; }
+
+
+body  {
+  background-image: url("j.jpg");
+  background-size:80% ;
+  background-color: #cccccc;
+}
+main.div
+{
+    width:30px;
+    margin:30px;
+}
+First Name
+{align:center;
+    
+    }
+    </style>
+</head>
 
 </head>
 <body>
